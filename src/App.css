@@ -34,6 +34,7 @@ nav {
 	padding: 0 0.2em;
 }
 
+/* media queries for large devices */
 @media (min-width: 768px) {
 	.menu-icon {
 		display: none;
@@ -42,5 +43,13 @@ nav {
 		ul {
 			display: block;
 		}
+	}
+}
+
+/* utility classes */
+ul.menu-open {
+	display: block;
+	li {
+		display: block;
 	}
 }
