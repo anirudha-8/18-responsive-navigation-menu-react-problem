@@ -6,19 +6,41 @@
 	box-sizing: border-box;
 }
 
-/* nav {
-	ul {
-		display: flex;
-		justify-content: space-evenly;
-		align-items: center;
-		background-color: #333;
-		height: 4rem;
-		list-style: none;
+h1 {
+	color: #eee;
+}
 
+nav {
+	padding: 2rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #333;
+	ul {
+		list-style: none;
+		display: none;
 		li {
+			display: inline;
+			margin-left: 1rem;
 			color: #eee;
 			font-size: 1.2rem;
 			font-weight: bold;
 		}
 	}
-} */
+}
+
+.menu-icon {
+	font-size: 1.2rem;
+	padding: 0 0.2em;
+}
+
+@media (min-width: 768px) {
+	.menu-icon {
+		display: none;
+	}
+	nav {
+		ul {
+			display: block;
+		}
+	}
+}
