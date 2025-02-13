@@ -16,7 +16,7 @@ function App() {
 					<li>Sign-In</li>
 				</ul>
 				<button className="menu-icon" onClick={() => setIsOpen(!isOpen)}>
-					☰
+					{!isOpen ? "☰" : "✖"}
 				</button>
 			</nav>
 		</div>
