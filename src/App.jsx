@@ -4,6 +4,7 @@ function App() {
 	return (
 		<div>
 			<nav>
+				<h1>Logo</h1>
 				<ul>
 					<li>Home</li>
 					<li>About</li>
@@ -11,6 +12,7 @@ function App() {
 					<li>Help</li>
 					<li>Sign-In</li>
 				</ul>
+				<button className="menu-icon">☰</button>
 			</nav>
 		</div>
 	);
