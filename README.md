@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://18-responsive-nav-menu.vercel.app/)
+## ==> [🔥Live Demo](https://18-responsive-navigation-menu-react-problem.vercel.app/)
 
 Welcome to the **eighteenth problem** of the React 30+ Practical Problems series! In this challenge, we will build a **responsive navigation menu** with a **hamburger icon** for mobile view.
 
