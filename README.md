@@ -30,13 +30,13 @@ Create a **responsive navigation menu** with the following functionalities:
 1. **Clone the Submodule Repository:**  
 
     ```bash
-    git clone https://github.com/anirudha-8/18-responsive-nav-menu.git
+    git clone https://github.com/anirudha-8/18-responsive-navigation-menu-react-problem.git
     ```
 
 2. Navigate to the Project Directory:  
 
     ```bash
-    cd 18-responsive-nav-menu
+    cd 18-responsive-navigation-menu-react-problem.git
     ```
 
 3. Install Dependencies:  
